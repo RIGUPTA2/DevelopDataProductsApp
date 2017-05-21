@@ -10,6 +10,6 @@ In this project a basic Shiny App is developed and presented
  + Server sends the response plot back to UI
  + UI receives the plot and renders it on scree
 
-- Github Code of the app available at: ui.R (https://github.com/RIGUPTA2/DevelopDataProductsApp/blob/master/ShinyAppAssignmentCode/ui.R)
- server.R (https://github.com/RIGUPTA2/DevelopDataProductsApp/blob/master/ShinyAppAssignmentCode/server.R)
+- Github Code of the ui.R availble at: (https://github.com/RIGUPTA2/DevelopDataProductsApp/blob/master/ShinyAppAssignmentCode/ui.R)
+- Github Code of the server.R availble at: (https://github.com/RIGUPTA2/DevelopDataProductsApp/blob/master/ShinyAppAssignmentCode/server.R)
  
